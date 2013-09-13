@@ -1,0 +1,16 @@
+{
+  "name": "Tom.js-soundcloud",
+  "repo": "bencevans/Tom.js-soundcloud",
+  "description": "Multi Source Music Player",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "component/jquery": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
